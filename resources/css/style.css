@@ -1,0 +1,36 @@
+*{
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetics;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+li {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+.background-image {
+  background-image: url("../images/the-flatiron-building.png");
+}
+.New-York {
+  font-size: 23px;
+  color: white;
+}
