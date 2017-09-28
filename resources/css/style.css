@@ -22,10 +22,18 @@ p{
   font-family: Helvetica;
   font-size: 14px;
 }
-li {
+li, a {
+  margin-top: 10px;
+  list-style-type: none;
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
 .background-image {
   background-image: url("../images/the-flatiron-building.png");
@@ -33,4 +41,7 @@ li {
 .New-York {
   font-size: 23px;
   color: white;
+}
+.left {
+  text-align: left;
 }
